@@ -1,0 +1,61 @@
+body{
+    font-family: 'Balsamiq Sans', cursive;
+    margin: 0px;
+}
+.pink-heilight{
+    color: purple;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,pink,purple);
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: white;
+}
+.half-width{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 500px;
+}
+.center{
+    text-align: center;
+}
+.work{
+    margin-left: 5%;
+}
+.work img{
+    width: 30%;
+    float: left;
+    padding-left: 2%;
+   
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+.middel-banner{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+.link-hero{
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    background-image: linear-gradient(45deg,pink,purple);
+    padding: 30px 30px;
+    border-radius: 5px;
+    color: white;
+    margin-left: 30%;
+    margin-right: 30%;
+}
